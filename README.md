@@ -5,7 +5,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffleon&repo=MarvelReactWebApp&show_icons=true&theme=tokyonight)](https://github.com/jeffleon/MarvelReactWebApp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffleon&repo=AirBnB_clone_v3&show_icons=true&theme=tokyonight)](https://github.com/jeffleon/AirBnB_clone_v3)
 
-![alt text](gif1.gif)
 <!--
 **jeffleon/jeffleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
