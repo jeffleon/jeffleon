@@ -1,4 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![alt text](banner_4.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffleon&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/jeffleon/github-readme-stats)
 ![Jefferson's github stats](https://github-readme-stats.vercel.app/api?username=jeffleon&show_icons=true&theme=tokyonight)
