@@ -2,6 +2,7 @@
 
 [![Jefferson's github stats](https://github-readme-stats.vercel.app/api?username=jeffleon)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeffleon&hide=contribs,prs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 ![alt text](gif1.gif)
