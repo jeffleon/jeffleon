@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![alt text](https://giphy.com/gifs/26BRGoqbUQvk8nwTC/html5)
 <!--
 **jeffleon/jeffleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
