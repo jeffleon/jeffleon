@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffleon&show_icons=true&theme=tokyonight&hide=Jupyter Notebook)](https://github.com/jeffleon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffleon&show_icons=true&theme=tokyonight&hide=Jupyter-Notebook)](https://github.com/jeffleon/github-readme-stats)
 ![Jefferson's github stats](https://github-readme-stats.vercel.app/api?username=jeffleon&show_icons=true&theme=tokyonight)
 
 
