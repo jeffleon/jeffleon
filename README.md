@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-![Jefferson's github stats](https://github-readme-stats.vercel.app/api?username=jeffleon&show_icons=true&theme=merko)
+![Jefferson's github stats](https://github-readme-stats.vercel.app/api?username=jeffleon&show_icons=true&theme=synthwave)
 
 
 ![alt text](gif1.gif)
