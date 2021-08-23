@@ -1,6 +1,6 @@
 # Hello, folks  I'm Jefferson! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Full Stack Software Engineer at Holberton School & Electronic Engineer from Santo Tomas University, with 2 years of experience in Industrial Automation like a Enginer in the area of projects and software developer, with performing functions as developer in, C, Python, and Go, with skills of teamwork, organization and continuous improvement and professional interest in renewable energies, equipment maintenance, network management and project evaluation.
+Full Stack Software Engineer & Electronic Engineer from Santo Tomas University, with 2 years of experience in Industrial Automation like a Enginer in the area of projects and software developer, with performing functions as developer in, C, Python, and Go, with skills of teamwork, organization and continuous improvement and professional interest in renewable energies, equipment maintenance, network management and project evaluation.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffleon&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/jeffleon/github-readme-stats)
 ![Jefferson's github stats](https://github-readme-stats.vercel.app/api?username=jeffleon&show_icons=true&theme=tokyonight)
