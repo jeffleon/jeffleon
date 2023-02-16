@@ -15,13 +15,7 @@ Full Stack Software Engineer & Electronic Engineer from Santo Tomas University, 
 <code><img src="imgs/cplusplus.png" width="30"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" height="30"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="30" height="30" alt="Java" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="30" height="30" alt="Kotlin" /></code>
-<code><img src="imgs/php.png" width="30" height="30"/></code>
-<code><img src="imgs/mysql.png" width="30"/></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL" /></code>
-<code><img src="imgs/arduino.png" width="30" heigjt="30"/></code>
-<code><img src="imgs/kali.jpeg" width="30"/></code>
 
 <!--
 **jeffleon/jeffleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
