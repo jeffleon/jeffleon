@@ -8,6 +8,18 @@ Full Stack Software Engineer & Electronic Engineer from Santo Tomas University, 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffleon&repo=grpc&show_icons=true&theme=tokyonight)](https://github.com/jeffleon/grpc)
 
 
+<h4 align="left">
+📖 Currently Learning 📖 
+ </h4>
+
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></code>
+<code><img src="imgs/csharp.png" width="30"/></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="30" height="30" alt="Swift" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="30" height="30" alt="Ruby" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="30" height="30" alt="Go" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
+<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" /></code>-->
+
 <!--
 **jeffleon/jeffleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
